@@ -1,7 +1,7 @@
 # uber-adshboard
 
 **Project Overview:**
-Welcome to the uber Restaurant Insights Dashboard! This interactive data visualization tool provides a comprehensive analysis of restaurant data extracted from uber, a leading online food delivery platform. By exploring this dashboard, you can uncover valuable insights into restaurant performance, customer preferences, and delivery trends within the uber ecosystem.
+Welcome to the uber Restaurant Insights Dashboard! This interactive data visualization tool provides a comprehensive analysis of restaurant data extracted from uber, a leading online food delivery platform. By exploring this dashboard, you can uncover valuable insights into restaurant performance, customer preferences, and delivery trends within the uber ecosystem
 
 **Data Source:**
 The dataset used for this dashboard comprises a rich collection of restaurant-related information gathered from kaggle. This includes details about restaurant locations, customer reviews,  delivery times, and more. The data has been anonymized and aggregated to ensure privacy and compliance with data protection regulations.
